@@ -2,10 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_cpg_qlg_5x">
     <title>How to make Jumbo Chickpea Pancake</title>
-    <shortdesc/>
+    <shortdesc>This meal is an interesting departure from the average pancake. This is a jumbo sized
+        pancake with vegetables delicately placed on top for a familiar mealdone in a slightly
+        different way. </shortdesc>
     <taskbody>
         <context>
-            <p><image href="../../Semester%201/Capture.PNG" id="image_ybh_ktg_5x"/></p>
+            <p><image href="Capture.PNG" id="chickpea"/></p>
             <p>Ingredients<ul id="ul_cpr_f4g_5x">
                     <li>1 green onion, finely chopped (about ¼ cup)</li>
                     <li>¼ cup finely chopped red pepper</li>

@@ -4,8 +4,8 @@
     <title>How to make a Ham, Cheese, and Egg Burrito</title>
     <shortdesc/>
     <taskbody>
-        <context><image href="../../Semester%201/burrito.jpg" id="image_qrr_ltg_5x"
-                    /><p>Ingridients<ul id="ul_j3j_zlg_5x">
+        <context><image href="burrito.jpg" id="burrito"/><p>Ingridients<ul
+                    id="ul_j3j_zlg_5x">
                     <li>1 whole egg</li>
                     <li>3 egg whites</li>
                     <li>6 slices of Deli Fresh Smoke Ham, chopped</li>

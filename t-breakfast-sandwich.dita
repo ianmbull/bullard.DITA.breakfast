@@ -2,10 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_mmk_chg_5x">
     <title>How to make a Breakfast Sandwich</title>
-    <shortdesc/>
+    <shortdesc>A wonderful and nutritious breakfst sandwich to start your day off right.</shortdesc>
     <taskbody>
-        <context><image href="../../Semester%201/sandwich.jpg" id="image_gkv_mtg_5x"
-                    /><p>Ingredients<ul id="ul_lf3_2hg_5x">
+        <context><image href="sandwich.jpg" id="sandwich"/><p>Ingredients<ul
+                    id="ul_lf3_2hg_5x">
                     <li>1 English muffin</li>
                     <li id="vegan-sausage" audience="armando">2 tablespoon soy vegan sausage,
                         pressed into a round patty </li>
@@ -20,11 +20,11 @@
                     <li>extra virgin olive oil for coating patty</li>
                 </ul></p></context>
         <steps>
-            <step>
-                <cmd id="sausage-vegan" audience="armando">Slice 2 tablespoons of vegan sausage and form it into a round patty.</cmd>
+            <step id="sausage-vegan" audience="armando">
+                <cmd>Slice 2 tablespoons of vegan sausage and form it into a round patty.</cmd>
             </step>
-            <step>
-                <cmd id="sausage-patty" audience="mom">Grab sausage patty.</cmd>
+            <step id="sausage-patty" audience="mom">
+                <cmd >Grab sausage patty.</cmd>
             </step>
             <step>
                 <cmd>Rub the patty in a very light amount of oil and place on grill.</cmd>
