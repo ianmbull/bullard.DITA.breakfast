@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Armando's Recipes</title>
+ <topicref href="t-blueberry-oatmeal.dita"/>
+ <topicref href="t-breakfast-sandwich.dita"/>
+ <topicref href="t-chickpea.dita"/>
+ <topicref href="References.dita"/>
+</map>

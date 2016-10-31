@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Reference">
+  <title>References</title>
+  <body>
+    <p id="grilled" audience="mom"><xref
+        href="http://www.foodnetwork.com/recipes/patrick-and-gina-neely/grilled-steak-and-eggs-with-beer-and-molasses-recipe.html"
+        format="html" scope="external">Grilled Steak Recipe</xref></p>
+    <p><xref href="http://www.isachandra.com/2012/10/blueberry-oatmeal-waffles/" format="html"
+        scope="external">Blueberry Oatmeal Waffles Recipe</xref></p>
+    <p><xref
+        href="http://kblog.lunchboxbunch.com/2010/06/breakfast-sandwich-vegan-recipe-in-15.html"
+        format="html" scope="external">Breakfast Sandwich</xref></p>
+    <p id="burrito" audience="mom"><xref href="http://www.kraftrecipes.com/recipes/egg-ham-cheese-burrito-114061.aspx"
+        format="html" scope="external">Ham, cheese, and egg Burrito</xref></p>
+    <p id="pancake" audience="armando"><xref
+        href="http://ohsheglows.com/2013/09/15/jumbo-chickpea-pancake-a-high-protein-filling-vegan-breakfast-or-lunch/"
+        format="html" scope="external">Jumbo Chickpea Pancake</xref></p>
+      </body>
+</topic>

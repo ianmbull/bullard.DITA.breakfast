@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mmk_chg_5x">
+    <title>How to make a Breakfast Sandwich</title>
+    <shortdesc/>
+    <taskbody>
+        <context><image href="../../Semester%201/sandwich.jpg" id="image_gkv_mtg_5x"
+                    /><p>Ingredients<ul id="ul_lf3_2hg_5x">
+                    <li>1 English muffin</li>
+                    <li id="vegan-sausage" audience="armando">2 tablespoon soy vegan sausage,
+                        pressed into a round patty </li>
+                    <li id="sausage" audience="mom">1 sasuage patty </li>
+                    <li>3 thin slices of bell pepper</li>
+                    <li id="vegan-cheese" audience="armando">1 tablespoon vegan shredded cheese</li>
+                    <li id="meatcheese" audience="mom">1 tablespoon shredded cheese</li>
+                </ul><ul id="ul_qxh_qhg_5x">
+                    <li id="vegan-butter" audience="armando">½ teaspoon vegan butter</li>
+                    <li id="butter" audience="mom">½ teaspoon butter</li>
+                    <li>pinch of black pepper</li>
+                    <li>extra virgin olive oil for coating patty</li>
+                </ul></p></context>
+        <steps>
+            <step>
+                <cmd id="sausage-vegan" audience="armando">Slice 2 tablespoons of vegan sausage and form it into a round patty.</cmd>
+            </step>
+            <step>
+                <cmd id="sausage-patty" audience="mom">Grab sausage patty.</cmd>
+            </step>
+            <step>
+                <cmd>Rub the patty in a very light amount of oil and place on grill.</cmd>
+            </step>
+            <step>
+                <cmd>Slice open the English Muffin and press the open faces on the grill</cmd>
+            </step>
+            <step>
+                <cmd>Rub sliced peppers in a little oil and place on the grill.</cmd>
+            </step>
+            <step>
+                <cmd>Allow the patty, peppers, and muffin grill for a minute.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off the grill and sprinkle cheese over the top of the patties.</cmd>
+            </step>
+            <step>
+                <cmd>Place the green peppers on top of cheese and let the patty sit on the grill
+                    until the cheese melts.</cmd>
+            </step>
+            <step>
+                <cmd>Take the English Muffin and spread 1 teaspoon of butter on one side, and maple
+                    syrup and/or jam on the other side.</cmd>
+            </step>
+            <step>
+                <cmd>Then put the sandwich together. Place the patty on top of bottom piece of
+                    muffin and put the muffin top on patty.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

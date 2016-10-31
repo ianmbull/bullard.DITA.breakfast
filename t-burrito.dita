@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-burrito">
+    <title>How to make a Ham, Cheese, and Egg Burrito</title>
+    <shortdesc/>
+    <taskbody>
+        <context><image href="../../Semester%201/burrito.jpg" id="image_qrr_ltg_5x"
+                    /><p>Ingridients<ul id="ul_j3j_zlg_5x">
+                    <li>1 whole egg</li>
+                    <li>3 egg whites</li>
+                    <li>6 slices of Deli Fresh Smoke Ham, chopped</li>
+                    <li>2 whole wheat tortillas (8 inch)</li>
+                    <li>¼ shredded Cheddar Cheese</li>
+                </ul></p></context>
+        <steps>
+            <step>
+                <cmd>Beat whole egg, egg whites and ham until blended.</cmd>
+            </step>
+            <step>
+                <cmd>Heat pan on medium-high heat and spray with cooking spray.</cmd>
+            </step>
+            <step>
+                <cmd>Add egg mixture and cook for 3 minutes stirring the mixture occasionally.</cmd>
+            </step>
+            <step>
+                <cmd>Spoon the egg mixture and place it down the center of the tortillas.</cmd>
+            </step>
+            <step>
+                <cmd>Place cheese on top of the egg.</cmd>
+            </step>
+            <step>
+                <cmd>Fold in opposite sides of each tortilla, then roll it up burrito-style.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-grilled-steak">
+    <title>How to make Grilled Steak and Eggs with Beer and Molasses</title>
+    <shortdesc>If you enjoy eating meat, then you are going to enjoy this breakfast recipe. It
+        combines wholesome steak with eggs for a delicious treat that you can enjoy in the morning. </shortdesc>
+    <taskbody>
+        <context><image href="../../Semester%201/FNM060109Grilling010_s4x3.jpg.rend.sni18col.jpeg"
+                id="image_vzl_ptg_5x"/><p>Ingredients for Sauce:</p><ul id="sauce">
+                <li>1 ½ teaspoons unsalted butter</li>
+                <li>½ medium onion, finely diced</li>
+                <li>1 clove garlic, lminced</li>
+                <li>1 cup ketchup</li>
+                <li>½ cup molasses</li>
+                <li>½ cup apple cider</li>
+                <li>2 tablespoons sugar</li>
+                <li>½ cup lager-style beer</li>
+                <li>1 ½ teaspoons yellow mustard</li>
+                <li>2 teaspoons lemon juice</li>
+                <li>1 ½ teaspoons Worcestershire sauce</li>
+                <li>1 ½ teaspoons cayenne pepper</li>
+                <li>1 ½ teaspoons paprika</li>
+            </ul><p>Ingredients for the steak and eggs:</p><ul id="steak-eggs">
+                <li>2 1-pound strip steaks (½ inch thick)</li>
+                <li>Salt and freshly ground pepper</li>
+                <li>1 tablespoon vegetable oil</li>
+                <li>4 grilled eggs </li>
+            </ul><p>Making the sauce</p></context>
+        <steps>
+            <step>
+                <cmd>Melt the butter in a medium saucepan over medium heat. </cmd>
+            </step>
+            <step>
+                <cmd>Add the onion and garlic and saute until softened for about 3 minutes. </cmd>
+            </step>
+            <step>
+                <cmd>Add the rest of the sauce ingridents and bring them to a boil. </cmd>
+            </step>
+            <step>
+                <cmd>Simmer the mixture until it is reduced to 2 cups. This should take
+                    approxiamately 30 minutes. </cmd>
+            </step>
+            <step>
+                <cmd>Preheat a grill to medium-high</cmd>
+            </step>
+            <step>
+                <cmd>Season the steaks with salt and pepper and rub with oil. </cmd>
+            </step>
+            <step>
+                <cmd>Grill for 3 to 5 minutes per side for medium.</cmd>
+            </step>
+            <step>
+                <cmd>Let the steak rest for 10 minutes before slicing. </cmd>
+            </step>
+            <step>
+                <cmd>Place a cast-iron skillet on the grill; add butter, oil, or bacon
+                    drippings</cmd>
+            </step>
+            <step>
+                <cmd>Crack in eggs and season to taste. Cook until the edges are crisp, but the
+                    yolks are still runny. This will take approixmately 2-3 minutes.</cmd>
+            </step>
+        </steps>
+      
+    </taskbody>
+</task>

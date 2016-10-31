@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cpg_qlg_5x">
+    <title>How to make Jumbo Chickpea Pancake</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p><image href="../../Semester%201/Capture.PNG" id="image_ybh_ktg_5x"/></p>
+            <p>Ingredients<ul id="ul_cpr_f4g_5x">
+                    <li>1 green onion, finely chopped (about ¼ cup)</li>
+                    <li>¼ cup finely chopped red pepper</li>
+                    <li>½ cup chickpea flour (also known as garbanzo flour or besan)</li>
+                    <li>¼ teaspoon garlic powder</li>
+                    <li>¼ teaspoon fine grain sea salt</li>
+                    <li>1/8 teaspoon freshly ground black pepper</li>
+                    <li>1/7 teaspoon baking powder</li>
+                    <li>pinch red peper flakes</li>
+                    <li>½ cup plus 2 tablespoons water</li>
+                </ul></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Preheat skillet over medium heat. </cmd>
+            </step>
+            <step>
+                <cmd>In a small bowl, whisk together the chickpea flour, garlic powder, salt,
+                    pepper, baking powder, and the red peper flakes.</cmd>
+            </step>
+            <step>
+                <cmd>Add in water and whisk until there are no more clumps. </cmd>
+            </step>
+            <step>
+                <cmd>Add chopped vegetables and stir</cmd>
+            </step>
+            <step>
+                <cmd>When the skillet has reached the correct temperature (check this by flicking
+                    drops of water on the pan, if they sizzle then the pan has reached the correct
+                    temperature.) spray the pan will olive oil.</cmd>
+            </step>
+            <step>
+                <cmd>Pour all of the batter into the pan. Let it cook for about 5-6 minutes or until
+                    you can easily slide a pancake flipper under the pancake and flip it over.
+                    Because of it's size it takes longer to cook in comparison to the average sized
+                    pancake. </cmd>
+            </step>
+            <step>
+                <cmd>Serve on a large plate and top with your desired toppings. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
